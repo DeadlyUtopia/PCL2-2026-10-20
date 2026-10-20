@@ -32,7 +32,7 @@
 
 ### PCL 社区版
 
-PCL 社区版（PCL-CE），即 [PCL Community Edition](https://ce.pclc.cc/)，已在 2.15.0 版本后跟进限制中国地区下载 MC 本体功能。详见 [#3673](https://github.com/PCL-Community/PCL-CE/pull/3673) 。
+PCL 社区版（PCL-CE），即 [PCL Community Edition](https://ce.pclc.cc/)，已在 2.15.0 版本后跟进限制中国地区下载 MC 本体功能。详见 [#3673](https://github.com/PCL-Community/PCL-CE/pull/3673) 和 [更新日志](https://github.com/PCL-Community/PCL-CE/releases#:~:text=install%3A%20%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%9C%B0%E5%8C%BA%E7%A6%81%E7%94%A8%20Minecraft%20%E5%AE%89%E8%A3%85%E5%8A%9F%E8%83%BD%20(%233673)%20by%20%40Big%2DCake%2Djpg%20in%20%233673) 。
 
 
 ### HMCL
